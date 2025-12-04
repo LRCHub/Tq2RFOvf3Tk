@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "No pain, No game",
+  "base_artist": "ナノ",
+  "createdAt": "2025-12-04T14:23:41.253233Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "No pain, No game",
+      "artist": "nano",
+      "has_synced": true,
+      "path": "select/01_No_pain,_No_game_nano.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "No pain, No game",
+      "artist": "ナノ",
+      "has_synced": true,
+      "path": "select/02_No_pain,_No_game_ナノ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "No pain, No game",
+      "artist": "Nano",
+      "has_synced": true,
+      "path": "select/03_No_pain,_No_game_Nano.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "no pain, no game",
+      "artist": "ペマ",
+      "has_synced": true,
+      "path": "select/04_no_pain,_no_game_ペマ.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "No Pain No Game",
+      "artist": "PelleK",
+      "has_synced": true,
+      "path": "select/05_No_Pain_No_Game_PelleK.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "No Pain No Game (From \"Btooom!\")",
+      "artist": "AmaLee",
+      "has_synced": true,
+      "path": "select/06_No_Pain_No_Game_(From__Btooom!_)_AmaLee.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "No pain, No game",
+      "artist": "ナノ",
+      "has_synced": false,
+      "path": "select/pl_01_No_pain,_No_game_ナノ.txt"
+    }
+  ]
+}
